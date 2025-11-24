@@ -47,4 +47,5 @@ for index, row in df.iterrows():
         variant_score=variant_score
     )
     print(master_id, variant_id)
-    
+
+assigner.df_master[['product_id','product_name','category_name','seller_sku','attributes','jan_infor','master_id','variant_id']].sort_values(by=['master_id', 'variant_id']).to_csv("result.csv")
