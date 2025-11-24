@@ -1,0 +1,299 @@
+{
+    "data": [
+        {
+            "id": 18698,
+            "shop_id": 425,
+            "currency": {
+                "code": "JPY",
+                "symbol": "円"
+            },
+            "group_id": 0,
+            "category_id": 2701,
+            "brand_id": 1,
+            "name": "CHIFFON BLOUSE WITH LACE-UP COLLAR (Type DIS)",
+            "type": 3,
+            "type_settings": {
+                "display_items": true,
+                "package_names": [
+                    "CHIFFON BLOUSE 1",
+                    "CHIFFON BLOUSE 2",
+                    "CHIFFON BLOUSE 3"
+                ],
+                "shipping_date_flag": true,
+                "number_of_deliveries": 3,
+                "shipping_interval_flag": true
+            },
+            "jan_info": {
+                "reason_no_code": 2
+            },
+            "short_description": "<p>Product prices include VAT, excluding delivery fees. Estimated delivery time is 3-7 working days. For any questions, please visit the Customer Service page. All goods on this website are the responsibility of H&amp;M Hennes &amp; Mauritz Vietnam Co., Ltd. (headquartered at 235 Dong Khoi, Ben Nghe, District 1, HCMC).</p>",
+            "long_description": "<p>Product prices include VAT, excluding delivery fees. Estimated delivery time is 3-7 working days. For any questions, please visit the Customer Service page. All goods on this website are the responsibility of H&amp;M Hennes &amp; Mauritz Vietnam Co., Ltd. (headquartered at 235 Dong Khoi, Ben Nghe, District 1, HCMC).</p>",
+            "package_weight": null,
+            "package_length": null,
+            "package_width": null,
+            "package_height": null,
+            "subscriptionFlag": 0,
+            "tax_id": 0,
+            "item_id": "addbuyingclub",
+            "is_active": 1,
+            "is_delete": 0,
+            "is_failed": 1,
+            "inventory_type": null,
+            "fulfillment_type": null,
+            "created_at": "2025-11-14 11:20:03",
+            "updated_at": "2025-11-14 11:20:19",
+            "updated_by_name": "",
+            "category": {
+                "id": 2701,
+                "name_en": "その他",
+                "name_jp": "その他",
+                "platform_id": 10,
+                "platform_category_id": "101737",
+                "parent_id": 2107,
+                "level": 2,
+                "is_lowest_level": 1
+            },
+            "is_cod_allowed": 0,
+            "error_message": null,
+            "product_skus": {
+                "data": [
+                    {
+                        "id": 37692,
+                        "seller_sku": "SKU-00008",
+                        "required_attributes": [
+                            {
+                                "name": "ブランド名",
+                                "value": [
+                                    "サンワサプライ"
+                                ],
+                                "unit": null
+                            },
+                            {
+                                "name": "メーカー型番",
+                                "value": [
+                                    "1"
+                                ],
+                                "unit": null
+                            }
+                        ],
+                        "status": 1,
+                        "shop_sku": "SKU-00008",
+                        "sku_id": "SKU-00008",
+                        "product_id": 18698,
+                        "created_at": "2025-11-14 11:20:03",
+                        "updated_at": "2025-11-14 11:20:03",
+                        "product_sku_detail": {
+                            "id": 37692,
+                            "price": 499,
+                            "rakuten_price_details": {
+                                "buying_club_price": "499",
+                                "buying_club_first_price": "400"
+                            },
+                            "cost_price": null,
+                            "quantity": 100,
+                            "available": 100,
+                            "inbound": 0,
+                            "unfulfillable": 0,
+                            "reserved": 0,
+                            "threshold": null,
+                            "product_sku_id": 37692,
+                            "url": null,
+                            "created_at": "2025-11-14 11:20:03",
+                            "updated_at": "2025-11-14 11:20:03"
+                        },
+                        "product_sku_detail_location": {
+                            "data": []
+                        },
+                        "specific_price": {
+                            "id": 33834,
+                            "product_sku_detail_id": 37692,
+                            "reduction": null,
+                            "discount_type": "",
+                            "price": 499,
+                            "start_date": "",
+                            "expiration_date": "",
+                            "created_at": "2025-11-14 11:20:03",
+                            "updated_at": "2025-11-14 11:20:03"
+                        },
+                        "product_sku_image": {
+                            "id": 37692,
+                            "url": "https://image.rakuten.co.jp/_shop_56409/cabinet/imgrc0117479256.jpg"
+                        },
+                        "attribute_simples": {
+                            "data": [
+                                {
+                                    "id": 19964,
+                                    "attribute_id": 9,
+                                    "attribute_value_id": 560,
+                                    "attributes": {
+                                        "id": 9,
+                                        "name": "Size",
+                                        "system_id": null
+                                    },
+                                    "attribute_values": {
+                                        "id": 560,
+                                        "name": "XL",
+                                        "code": null
+                                    }
+                                },
+                                {
+                                    "id": 19965,
+                                    "attribute_id": 31,
+                                    "attribute_value_id": 16,
+                                    "attributes": {
+                                        "id": 31,
+                                        "name": "Color",
+                                        "system_id": null
+                                    },
+                                    "attribute_values": {
+                                        "id": 16,
+                                        "name": "Blue",
+                                        "code": null
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 37694,
+                        "seller_sku": "SKU-00007",
+                        "required_attributes": [
+                            {
+                                "name": "ブランド名",
+                                "value": [
+                                    "サンワサプライ"
+                                ],
+                                "unit": null
+                            },
+                            {
+                                "name": "メーカー型番",
+                                "value": [
+                                    "1"
+                                ],
+                                "unit": null
+                            }
+                        ],
+                        "status": 1,
+                        "shop_sku": "SKU-00007",
+                        "sku_id": "SKU-00007",
+                        "product_id": 18698,
+                        "created_at": "2025-11-14 11:20:08",
+                        "updated_at": "2025-11-14 11:20:08",
+                        "product_sku_detail": {
+                            "id": 37694,
+                            "price": 499,
+                            "rakuten_price_details": {
+                                "buying_club_price": "499",
+                                "buying_club_first_price": "400"
+                            },
+                            "cost_price": null,
+                            "quantity": 100,
+                            "available": 100,
+                            "inbound": 0,
+                            "unfulfillable": 0,
+                            "reserved": 0,
+                            "threshold": null,
+                            "product_sku_id": 37694,
+                            "url": null,
+                            "created_at": "2025-11-14 11:20:08",
+                            "updated_at": "2025-11-14 11:20:08"
+                        },
+                        "product_sku_detail_location": {
+                            "data": []
+                        },
+                        "specific_price": {
+                            "id": 33836,
+                            "product_sku_detail_id": 37694,
+                            "reduction": null,
+                            "discount_type": "",
+                            "price": 499,
+                            "start_date": "",
+                            "expiration_date": "",
+                            "created_at": "2025-11-14 11:20:08",
+                            "updated_at": "2025-11-14 11:20:08"
+                        },
+                        "product_sku_image": {
+                            "id": 37694,
+                            "url": "https://image.rakuten.co.jp/_shop_56409/cabinet/imgrc0117479256.jpg"
+                        },
+                        "attribute_simples": {
+                            "data": [
+                                {
+                                    "id": 19968,
+                                    "attribute_id": 9,
+                                    "attribute_value_id": 560,
+                                    "attributes": {
+                                        "id": 9,
+                                        "name": "Size",
+                                        "system_id": null
+                                    },
+                                    "attribute_values": {
+                                        "id": 560,
+                                        "name": "XL",
+                                        "code": null
+                                    }
+                                },
+                                {
+                                    "id": 19969,
+                                    "attribute_id": 31,
+                                    "attribute_value_id": 62,
+                                    "attributes": {
+                                        "id": 31,
+                                        "name": "Color",
+                                        "system_id": null
+                                    },
+                                    "attribute_values": {
+                                        "id": 62,
+                                        "name": "Green",
+                                        "code": null
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "images": {
+                "data": [
+                    {
+                        "id": 67253,
+                        "product_id": 18698,
+                        "url": "https://image.rakuten.co.jp/_shop_56409/cabinet/imgrc0117479256.jpg",
+                        "created_at": "2025-11-14 11:20:03",
+                        "updated_at": "2025-11-14 11:20:03"
+                    }
+                ]
+            },
+            "attribute_products": {
+                "data": []
+            },
+            "brand": {
+                "id": 1,
+                "name": "No brand",
+                "created_at": "2024-09-13 08:57:10",
+                "updated_at": "2024-09-13 08:57:10"
+            },
+            "shop": {
+                "id": 425,
+                "platform_name": "デモ_店舗向けテスト_56409",
+                "platform_url": "giangtest.com.12dbtest",
+                "platform_id": 10,
+                "platform_shop_id": "_shop_56409",
+                "country": "jp",
+                "system_name": "デモ_店舗向けテスト_56409",
+                "system_short_name": "56409",
+                "is_active": 1,
+                "status": 1,
+                "access_token": null,
+                "license_key": "417420_vwFpxAe3Itnfp0pe",
+                "auth_data": null,
+                "token_expiration_date": "2026-01-26 23:59:59",
+                "created_at": "2025-11-05 02:49:39",
+                "updated_at": "2025-11-10 10:24:27"
+            },
+            "sku_centers": {
+                "data": []
+            }
+        }
+    ]
+}
